@@ -2,7 +2,7 @@
 
 const car = require('./circular-array-rotation')
 
-describe.only('circular array rotation', () => {
+describe('circular array rotation', () => {
   it('should', () => {
     car()
   });
